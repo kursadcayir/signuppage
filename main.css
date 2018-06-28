@@ -1,0 +1,67 @@
+body {
+  background-color: DodgerBlue;
+  
+  color: white;
+  font-size: 16px;
+  font-family: 'Roboto', helvetica, sans-serif;
+}
+h1 {
+  color:Grey;
+  font-size:50px;
+
+}
+
+.demo-form form {
+  
+}
+
+.demo-form fieldset{
+  background-color:white;
+  
+  margin-left: 600px;
+  width: 400px;
+  height: 600px;
+ 
+  display:block;
+
+}
+.demo-form img{
+  height: 35px;
+  margin-left: 700px;
+
+  
+}
+.demo-form label {
+  display:block;
+
+  
+  
+}
+.demo-form input{
+ display: block;
+ width: 318px;
+ border:2px grey;
+ height: 55px;
+ 
+
+}
+
+.demo-form button {
+  display:block;
+  padding-bottom:15px;
+  padding-right: 15px;
+  width: 318px;
+  border:2px grey ;
+  height:55px;
+  
+  background-color:green;
+  }
+
+p{
+  display:block; 
+  
+  height: 35px;
+  margin-left: 700px;
+  
+  
+}
